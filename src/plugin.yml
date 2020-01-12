@@ -1,0 +1,8 @@
+name: OpalCraftLargage
+main: fr.volax.opalcraftlargage.OpalCraftLargagePlugin
+version: 1.0.0
+author: Volax
+description: OpalCraftLargage
+commands:
+  largage:
+    description: Command Largage

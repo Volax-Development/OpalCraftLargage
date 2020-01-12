@@ -1,0 +1,11 @@
+messages:
+  no-player: "Vous devez être un joueur pour executer cette commande !"
+  no-perm: "&cVous n'avez pas la permission d'executer cette commande !"
+  help-largage0: "&7---------------"
+  help-largage1: "&7>>&b/largage loc"
+  help-largage2: "&7>>&b/largage temp"
+
+permissions:
+  largage-use: "opalcraft.largage.use"
+  largage-loc: "opalcraft.largage.loc"
+  largage-temp: "opalcraft.largage.temp"
